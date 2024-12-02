@@ -1,0 +1,7 @@
+D:\ГИИИТ\скул аутоматион\school-automation\7 лаба\beautyVar\beautyVar\bin\Debug\beautyVar.exe.config
+D:\ГИИИТ\скул аутоматион\school-automation\7 лаба\beautyVar\beautyVar\bin\Debug\beautyVar.exe
+D:\ГИИИТ\скул аутоматион\school-automation\7 лаба\beautyVar\beautyVar\bin\Debug\beautyVar.pdb
+D:\ГИИИТ\скул аутоматион\school-automation\7 лаба\beautyVar\beautyVar\obj\Debug\beautyVar.csproj.AssemblyReference.cache
+D:\ГИИИТ\скул аутоматион\school-automation\7 лаба\beautyVar\beautyVar\obj\Debug\beautyVar.csproj.CoreCompileInputs.cache
+D:\ГИИИТ\скул аутоматион\school-automation\7 лаба\beautyVar\beautyVar\obj\Debug\beautyVar.exe
+D:\ГИИИТ\скул аутоматион\school-automation\7 лаба\beautyVar\beautyVar\obj\Debug\beautyVar.pdb

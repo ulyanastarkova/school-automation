@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|d:\\\u0433\u0438\u0438\u0438\u0442\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyvar\\beautyvar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|solutionrelative:beautyvar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|d:\\\u0433\u0438\u0438\u0438\u0442\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyvar\\beautyvar\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|solutionrelative:beautyvar\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|d:\\\u0433\u0438\u0438\u0438\u0442\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyvar\\beautyvar\\models\\pupil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|solutionrelative:beautyvar\\models\\pupil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|d:\\\u0433\u0438\u0438\u0438\u0442\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyvar\\beautyvar\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|solutionrelative:beautyvar\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|d:\\\u0433\u0438\u0438\u0438\u0442\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyvar\\beautyvar\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D10A28E-D0C7-49F8-8EB4-F26D9E64AA62}|beautyVar\\beautyVar.csproj|solutionrelative:beautyvar\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Program.cs",
-              "RelativeDocumentMoniker": "beautyVar\\Program.cs",
-              "ToolTip": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Program.cs",
-              "RelativeToolTip": "beautyVar\\Program.cs",
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "beautyVar\\Models\\Schedule.cs",
+              "ToolTip": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Models\\Schedule.cs",
+              "RelativeToolTip": "beautyVar\\Models\\Schedule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T10:49:45.049Z",
+              "WhenOpened": "2024-12-02T10:58:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pupil.cs",
+              "DocumentMoniker": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Models\\Pupil.cs",
+              "RelativeDocumentMoniker": "beautyVar\\Models\\Pupil.cs",
+              "ToolTip": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Models\\Pupil.cs",
+              "RelativeToolTip": "beautyVar\\Models\\Pupil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:58:02.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "beautyVar\\Models\\Teacher.cs",
+              "ToolTip": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Models\\Teacher.cs",
+              "RelativeToolTip": "beautyVar\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:57:49.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "beautyVar\\Models\\Admin.cs",
+              "ToolTip": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\beautyVar\\beautyVar\\Models\\Admin.cs",
+              "RelativeToolTip": "beautyVar\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:57:29.989Z",
               "EditorCaption": ""
             }
           ]
