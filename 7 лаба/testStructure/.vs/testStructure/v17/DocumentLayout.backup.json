@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\testStructure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3333B855-5EF9-4327-9C56-D95255E500A0}|testStructure\\testStructure.csproj|d:\\\u0433\u0438\u0438\u0438\u0442\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\teststructure\\teststructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3333B855-5EF9-4327-9C56-D95255E500A0}|testStructure\\testStructure.csproj|solutionrelative:teststructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3333B855-5EF9-4327-9C56-D95255E500A0}|testStructure\\testStructure.csproj|d:\\\u0433\u0438\u0438\u0438\u0442\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\teststructure\\teststructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3333B855-5EF9-4327-9C56-D95255E500A0}|testStructure\\testStructure.csproj|solutionrelative:teststructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\testStructure\\testStructure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "testStructure\\Models\\User.cs",
+              "ToolTip": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\testStructure\\testStructure\\Models\\User.cs",
+              "RelativeToolTip": "testStructure\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:55:14.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0413\u0418\u0418\u0418\u0422\\\u0441\u043A\u0443\u043B \u0430\u0443\u0442\u043E\u043C\u0430\u0442\u0438\u043E\u043D\\school-automation\\7 \u043B\u0430\u0431\u0430\\testStructure\\testStructure\\Program.cs",
               "RelativeDocumentMoniker": "testStructure\\Program.cs",
